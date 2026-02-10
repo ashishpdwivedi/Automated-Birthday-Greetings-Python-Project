@@ -24,6 +24,7 @@ Code for birthday wishes
 <img width="1586" height="747" alt="image" src="https://github.com/user-attachments/assets/a61edd34-1a0e-4606-89cd-10cd4e638f80" />
 
 Output as a mail sent 
+
 <img width="646" height="267" alt="image" src="https://github.com/user-attachments/assets/b4a01964-75ba-4b95-a006-54e23108d0b8" />
 
 
